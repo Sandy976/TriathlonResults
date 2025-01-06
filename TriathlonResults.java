@@ -1,4 +1,3 @@
-// Save this in a file named TriathlonResults.java
 import java.util.ArrayList;
 import java.util.Comparator;
 
